@@ -1,0 +1,159 @@
+body {
+    font-size: 20px;
+    font-family: "playfair sans-serif";
+    margin: 0;
+    padding: 0;
+    background-image: url("../image/ep_naturalwhite.png");
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "montserrat, serif";
+}
+
+/* [class*="col-"] {
+    background-color: lightgreen;
+    border: 2px solid black;
+    border-radius: 6px;
+} */
+
+.glyphicon {
+    font-size: 30px;
+    color:#000;
+    padding-top: 10px;
+}
+
+.margeTop {
+    margin-top: 60px;
+}
+
+.infoPerso {
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+.nP {
+    line-height: 150px;
+    height: 150px;
+    background-color: #4F4F4F;
+    font-size: 50px;
+    color: #ffffff;
+}
+.np2 {
+    height: 150px;   
+    line-height: 150px; 
+    font-size: 50px;
+    background-color: #474747;
+    color: #ffffff;
+}
+.np2:hover{
+    background: rgb(58, 57, 57);
+    transition: 0.5s;
+}
+.np3 {
+    height: 150px;
+    line-height: 150px;
+    font-size: 50px;
+    background-color: #3B3B3B;
+    color: #ffffff;
+} 
+.np3:hover {
+    background: #4F4F4F;
+    transition: 0.5s;
+}
+.np4 {
+    height: 150px;
+    line-height: 150px;
+    font-size: 50px;
+    background-color: #3F3F3F;
+    color: #ffffff;
+}
+.poste {
+    font-size: 30px;
+}
+.tailleGit {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.vert {
+    color: white;
+    background-color: #1ABC9C;
+}
+.vert:hover {
+    background-color: rgb(19, 143, 118); 
+    transition : 0.5s;   
+}
+.bleu {
+    color: white;
+    background-color: #3498DB;
+}
+.bleu:hover {
+    background-color: rgb(33, 107, 156);
+    transition: 0.5s;
+}
+.violet {
+    color: white;
+    background-color: #9B59B6;
+}
+.violet:hover {
+    background-color: rgb(104, 55, 126);
+    transition: 0.5s;
+}
+.orange {
+    color: white;
+    background-color: #E67E22;
+}
+.orange:hover {
+    background-color: rgb(153, 82, 19);
+    transition: 0.5s;
+}
+.rouge {
+    color: white;
+    background-color: #E74C3C;
+}
+.rouge:hover {
+    background-color: rgb(145, 42, 32);
+    transition: 0.5s;
+}
+.jaune {
+    color: white;
+    background-color: #D9A81D;
+}
+.jaune:hover {
+    background-color: rgb(153, 117, 17);
+    transition: 0.5s;
+}
+.gridus {
+    background-color: #FFFFFF;
+}
+.Prouge {
+    color: #E74C3C;
+}
+.petitPara {
+    font-size: 13px;
+}
+
+.PersonalInfo {
+    background-color: #EFEFEF;
+}
+.persoText {
+    font-size: 15px;
+}
+.xP {
+    background-color: #9B59B6;
+    color: #ffffff;
+    height: 400px;
+} 
+.skills {
+    color: #ffffff;
+    background-color: #3498DB;
+    height: 400px;
+}
+.date {
+    color: #ffffff;
+}
+.xpDate {
+    font-size: 18px;
+}
+.css {
+    width: 40%;
+}

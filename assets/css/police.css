@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "montserrat";
+    src: url('assets/police/Montserrat and Playfair Display/montserrat/Montserrat-Black.ttf'),
+    url("assets/police/Montserrat and Playfair Display/montserrat/Montserrat-Bold.ttf"),
+    url("assets/police/Montserrat and Playfair Display/montserrat/Montserrat-Light.ttf"),
+    url("assets/police/Montserrat and Playfair Display/montserrat/Montserrat-Regular.ttf"),
+    url("assets/police/Montserrat and Playfair Display/montserrat/Montserrat-Thin.ttf");
+}
+
+@font-face {
+    font-family: "playfair";
+    src: url('assets/police/Playfair_Display/PlayfairDisplay-Black.ttf'),
+    url('assets/police/Playfair_Display/PlayfairDisplay-BlackItalic.ttf'),
+    url('assets/police/Playfair_Display/PlayfairDisplay-Bold.ttf'),
+    url('assets/police/Playfair_Display/PlayfairDisplay-BoldItalic.ttf'),
+    url('assets/police/Playfair_Display/PlayfairDisplay-Italic.ttf'),
+    url('assets/police/Playfair_Display/PlayfairDisplay-Regular.ttf');
+}
+
